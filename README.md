@@ -1,3 +1,5 @@
+![image](https://github.com/JAndresBP/ImmersiveEA/assets/30155060/d536edc1-0e30-4a5f-bda7-5b1df987ffef)
+
 Immersive Enterprise Architecture Visualization
 ---------------
 
